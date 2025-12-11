@@ -105,8 +105,7 @@ GitHub (team repo reference):
 
 ---
 
-## 👥 Team  
-- Aeshwa Kachhadiya  
+## 👥 Team   
 - Bimala Joshi  
 - Cezane Karki  
 - **Moulya Reddygari Bhupal**  
